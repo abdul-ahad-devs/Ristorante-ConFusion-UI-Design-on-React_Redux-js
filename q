@@ -1,0 +1,143 @@
+[33mcommit 4fe9067d570feb193f44b7799c9fc3c8eb7518d5[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Fri Apr 3 21:46:21 2020 +0500
+
+    Fetch Handling Errors
+
+[33mcommit 93cc8ff7be967923281154d474716ea141796dab[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Fri Apr 3 03:57:22 2020 +0500
+
+    Fetch From Server
+
+[33mcommit 531a2e9f34f8539f7fd49640ec562fdda03c3a57[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Thu Apr 2 05:43:48 2020 +0500
+
+    React Redux Forms Revisited
+
+[33mcommit b6c18d61ac8c75bce34b2febd6506828a716e19e[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Thu Apr 2 05:24:39 2020 +0500
+
+    Redux Thunk
+
+[33mcommit a8dc93a7827b5508d6d71b14ec67b524860c990d[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Thu Apr 2 03:54:45 2020 +0500
+
+    Redux Actions
+
+[33mcommit a424550b583bb5d255d2c537622bf1ee0641ea2c[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Thu Apr 2 00:58:15 2020 +0500
+
+    Combining Reducers
+
+[33mcommit a12f90dd8ee1a5cb903d0e5b5336a3bfc1ab1865[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Wed Apr 1 17:42:47 2020 +0500
+
+    Assignment Number 03
+
+[33mcommit 28140e17b79495624e67c402f999f46d4ec3f146[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Tue Mar 31 03:41:02 2020 +0500
+
+    React Redux Form Validations
+
+[33mcommit e5c32e563f9212147a4e19eea0be1b7c10e52e0d[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Tue Mar 31 03:07:45 2020 +0500
+
+    React Redux Form
+
+[33mcommit d060fdc6283b199ba761b863b20f5826122ab7e3[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Tue Mar 31 02:39:15 2020 +0500
+
+    Intro to Redux
+
+[33mcommit 5ec89941a01a173dc4ef635e2f2b9ab86f4b5b2e[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Mon Mar 30 03:16:45 2020 +0500
+
+    Uncontrolled Forms
+
+[33mcommit 9176097539fc1486fcd9dcb9ac0e69ef29d7f1c6[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Sun Mar 29 19:26:28 2020 +0500
+
+    Controlled Form Validations
+
+[33mcommit a8d0b4ee6518c178ce1709446d50a48ef9a60460[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Sun Mar 29 18:43:23 2020 +0500
+
+    Controlled Forms
+
+[33mcommit ddb77e54dfe97665b8fe9833760637b83e9576f6[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Fri Mar 27 23:35:50 2020 +0500
+
+    Single Page Application Part 02
+
+[33mcommit 9aab7e812d7847e4119ac20e454e11b41d037528[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Fri Mar 27 21:32:33 2020 +0500
+
+    Single Page Application Part 01
+
+[33mcommit d57a4c8729890dc652bd4ac72666d0deaf6df572[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Fri Mar 27 02:21:51 2020 +0500
+
+    React-Router
+
+[33mcommit 6a7571c6d76a30feabfda61394812f0369de111e[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Thu Mar 26 21:19:49 2020 +0500
+
+    Header and Footer
+
+[33mcommit ac21ce9b55109f56b3b43347a4ec336074e16049[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Thu Mar 26 19:19:56 2020 +0500
+
+    Functional Components
+
+[33mcommit f13c5ceb5fd32570b81469ce08cabb3737591067[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Wed Mar 25 23:04:16 2020 +0500
+
+    Presentational and Container Components
+
+[33mcommit f08e30f88aa5118f4082f2abae596328f352c5ed[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Wed Mar 25 20:27:02 2020 +0500
+
+    DishdetailComponent Added Succesfully
+
+[33mcommit e08b925a06543dd0aeafd743a2699596ead459d4[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Tue Mar 24 22:48:34 2020 +0500
+
+    Components Part 02
+
+[33mcommit 42d2bcc56949e4c59b842210bdd9f0d51b7614bf[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Tue Mar 24 04:08:16 2020 +0500
+
+    Components Part 01
+
+[33mcommit f5e2b9b2e32836412ac648fc06bfcbcba0c3d582[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Mon Mar 23 22:45:13 2020 +0500
+
+    Configured React
+
+[33mcommit 89f5b206742703a2cbf6acd33b930faa9f8dbae6[m
+Author: dark-theme-programmer <abdulahad.oct99@gmail.com>
+Date:   Mon Mar 23 17:13:24 2020 +0500
+
+    Initialize project using Create React App
